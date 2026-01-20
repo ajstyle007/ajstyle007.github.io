@@ -392,7 +392,6 @@ a:focus {
 .personal-info-title {
     font-size: 22px;
     font-weight: bold;
-    color: #222;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -407,6 +406,38 @@ a:focus {
     font-weight: 600;
     color: #007acc; /* A nice blue for labels */
 }
+
+
+
+
+.section-title {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.experience-item {
+    margin-bottom: 30px;
+}
+
+.experience-date {
+    float: right;
+    font-size: 0.9em;
+    color: #777;
+}
+
+.experience-points {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.experience-points li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+}
+
+
 
 
 .skills-container {
@@ -424,7 +455,6 @@ a:focus {
 .skills-title {
     font-size: 22px;
     font-weight: bold;
-    color: #222;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -632,7 +662,6 @@ a:focus {
     margin: 0 auto 10px auto;
     font-size: 26px;
     font-family: Arial, sans-serif;
-    color: #222;
 }
 
 /* Publications description */
