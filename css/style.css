@@ -990,20 +990,24 @@ a:focus {
   color: #00adb5;
 }
 
+#intro-wrapper {
+  scroll-margin-top: 3rem;
+}
+
 #about {
-  scroll-margin-top: 40px;
+  scroll-margin-top: 60px;
 }
 
 #experience {
-  scroll-margin-top: 60px;
+  scroll-margin-top: 36px;
 }
 
 #skills {
-  scroll-margin-top: 60px;
+  scroll-margin-top: 36px;
 }
 
 #projects {
-  scroll-margin-top: 40px;
+  scroll-margin-top: 50px;
 }
 
 #blogs-section {
