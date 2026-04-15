@@ -974,7 +974,7 @@ a:focus {
 .nav-links {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 20px;
   list-style: none;
 }
 
